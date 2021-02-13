@@ -28,3 +28,14 @@
 - [Giphy](https://developers.giphy.com/docs/api/endpoint)
 - [Heroku](https://devcenter.heroku.com/articles/platform-api-reference)
 - [AWS](https://docs.aws.amazon.com/index.html)
+- [Adyen](https://docs.adyen.com/api-explorer/)
+- Twilio
+- MapBox
+- Google Cloud
+- USPS
+- FedEx
+- [Nexmo](https://developer.nexmo.com/api)
+- [Paddle](https://developer.paddle.com/api-reference/intro)
+- [Google Ads](https://developers.google.com/google-ads/api/docs/release-notes)
+- [Auth0](https://auth0.com/docs/api/authentication)
+- [SendGrid](https://sendgrid.com/docs/api-reference/)
