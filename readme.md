@@ -1,25 +1,30 @@
 
 # APIs
 
-- https://developer.atlassian.com/cloud/jira/software/rest/api-group-board/#api-group-board
-- https://stripe.com/docs/api
-- https://developers.google.com/calendar/v3/reference
-- https://developer.shipbob.com/api-docs
-- https://apidocs.flexport.com/reference/introduction
-- https://plaid.com/docs/api/
-- https://clearbit.com/docs
-- https://developers.facebook.com/docs/graph-api/reference
-- https://developers.coinbase.com/api/v2
-- https://api.slack.com/methods
-- https://marketplace.zoom.us/docs/api-reference/zoom-api
-- https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0
-- https://developers.google.com/youtube/v3/docs/?apix=true
-- https://developers.google.com/gmail/api/reference/rest?hl=en
-- https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_list.htm
-- https://developers.adp.com/articles/api/all/apiexplorer
-- https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0 (apis on the left)
-- https://calendly.stoplight.io/docs/api-docs/docs/A-API-Getting-Started.md
-- https://docs.gusto.com/
-- https://developer.paypal.com/docs/api/reference/api-requests/
-- https://developers.google.com/maps/documentation/javascript/reference
-- https://developers.giphy.com/docs/api/endpoint#search-suggestions
+- [JIRA](https://developer.atlassian.com/cloud/jira/software/rest/api-group-board/#api-group-board)
+- [Stripe](https://stripe.com/docs/api)
+- [Google Calendar](https://developers.google.com/calendar/v3/reference)
+- [ShipBob](https://developer.shipbob.com/api-docs)
+- [Flexport](https://apidocs.flexport.com/reference/introduction)
+- [Plaid](https://plaid.com/docs/api/)
+- [ClearBit](https://clearbit.com/docs)
+- [Facebook](https://developers.facebook.com/docs/graph-api/reference)
+- [CoinBase](https://developers.coinbase.com/api/v2)
+- [Slack](https://api.slack.com/methods)
+- [Zoom](https://marketplace.zoom.us/docs/api-reference/zoom-api)
+- [YouTube](https://developers.google.com/youtube/v3/docs/?apix=true)
+- [GMail](https://developers.google.com/gmail/api/reference/rest?hl=en)
+- [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_list.htm)
+- [ADP](https://developers.adp.com/articles/api/all/apiexplorer)
+- [Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0) (apis on the left)
+- [Calendly](https://calendly.stoplight.io/docs/api-docs/docs/A-API-Getting-Started.md)
+- [Gusto](https://docs.gusto.com/)
+- [Adobe Creative Cloud](https://www.adobe.io/creative-cloud-libraries/docs/api/)
+- Docusign
+  - [eSignature](https://developers.docusign.com/docs/esign-rest-api/reference/)
+- [Box](https://developer.box.com/reference/)
+- [PayPal](https://developer.paypal.com/docs/api/reference/api-requests/)
+- [Google Maps JavaScript](https://developers.google.com/maps/documentation/javascript/reference)
+- [Giphy](https://developers.giphy.com/docs/api/endpoint)
+- [Heroku](https://devcenter.heroku.com/articles/platform-api-reference)
+- [AWS](https://docs.aws.amazon.com/index.html)
