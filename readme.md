@@ -39,3 +39,13 @@
 - [Google Ads](https://developers.google.com/google-ads/api/docs/release-notes)
 - [Auth0](https://auth0.com/docs/api/authentication)
 - [SendGrid](https://sendgrid.com/docs/api-reference/)
+- [Okta](https://developer.okta.com/docs/reference/api/authn/)
+- [Printful](https://www.printful.com/docs)
+- Etsy
+- LinkedIn
+- Twitter
+- [FileStack](https://www.filestack.com/)
+- [WhatsApp Business](https://developers.facebook.com/docs/whatsapp/api/reference)
+- [ZenDesk](https://developer.zendesk.com/rest_api/docs/zendesk-apis/resources)
+- SoundCloud
+- Pinterest
