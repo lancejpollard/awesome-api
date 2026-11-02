@@ -64,3 +64,4 @@
 - [CodeClimate](https://developer.codeclimate.com/)
 - [Jenkins](https://www.jenkins.io/doc/book/using/remote-access-api/)
 - [ISBNdb](https://isbndb.com/apidocs/v2)
+- [Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - Free keyless daily-experience JSON, Dutch and Netherlands scope by default.
